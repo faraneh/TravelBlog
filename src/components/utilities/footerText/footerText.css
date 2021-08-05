@@ -1,0 +1,9 @@
+.footerText { 
+    text-align:left;
+}
+.footerTxtTitle {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    line-height: 1.5rem;
+}

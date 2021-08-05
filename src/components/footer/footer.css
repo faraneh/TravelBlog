@@ -1,0 +1,77 @@
+.footer {
+    background-color: #E9E9E9;
+    width: 100%;
+    min-width: 1200px;
+    height: 500px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+.footerText { 
+    width: 400px;
+    text-align: center;
+    padding-top: 50px;
+    margin-right: 15px;
+}
+.footerLogo { 
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding-left: 10px;
+}
+.footerP {
+    line-height: 2rem;
+    text-align: left;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+.footerSocialLinks { 
+    width: 190px;
+    height: 35px;
+}
+.footerNews { 
+    width: 400px;
+    padding-top: 50px;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 15px;
+}
+.footerRecentNews {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin: 0;
+    margin-left: 5px;
+}
+.footerFeed { 
+    width: 400px;
+    /* border: 1px solid red; */
+    padding-top: 50px;
+}
+.footerFeed { 
+    width: 400px;
+    padding-top: 50px;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* border: 1px solid blue; */
+
+}
+.instagramFeed { 
+    width: 400px;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* border: 1px solid green; */
+
+}
+.instaPost {
+    width: 125px;
+    height: 125px;
+    border-radius: 3px;
+    margin: 3px;
+}
